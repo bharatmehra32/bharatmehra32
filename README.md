@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding 
 - 📫 How to reach me ...@bharatmehra32
 - 😄 Pronouns: ...
-- ⚡ Fun fact: it's my first time using github
+- ⚡ Fun fact: it's my first time using github 
 
 <!---
 bharatmehra32/bharatmehra32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
